@@ -5,5 +5,5 @@ W. Alam, S. Reineke, M. R. Viswanath, R. Z. Rusho, D. V. Daele, D. Meyer, J. Liu
 ### Paper link: 
 < will be posted once online >
 
-
-![Fig_1_caption_redo](https://user-images.githubusercontent.com/65805742/184971249-7429ab5f-5c70-4656-911c-d703d1376469.png)
+## coil layout:
+<img src="/images/Fig_1_caption_redo.png" alt="Alt text" width="600" title="coil layout 2">
