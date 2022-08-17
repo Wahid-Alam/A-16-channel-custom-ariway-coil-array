@@ -25,10 +25,14 @@ W. Alam, S. Reineke, M. R. Viswanath, R. Z. Rusho, D. V. Daele, D. Meyer, J. Liu
  ## Dataset:
   Share in-house dataset used for the in-vivo experiments once the paper is accepeted and online.
 ## Description of matlab and python scripts:
-`SENSE_3D.m`: matlab implementation of 3D SENSE (for reconstruction)with no regularization and pseudo replica method (to evaluate g-maps)[^1].
+`SENSE_3D.m`: matlab implementation of 3D SENSE (for reconstruction)with no regularization and pseudo replica method (to evaluate g-maps)<sup>[1].
 
-`ttGRAPPA_main.m`: matlab implementatipon of through-time spiral GRAPPA parallel imaging-based reconstruction[^2].
+`ttGRAPPA_main.m`: matlab implementatipon of through-time spiral GRAPPA parallel imaging-based reconstruction<sup>[2].
 
 `likert_scale_rating_violinplot.ipynb`: python scripts for demonstrating acceleration-wise violinplots for all the airway regions of interest.
 ## References:
 - [1] Pruessmann, Klaas P., et al. "SENSE: sensitivity encoding for fast MRI." Magnetic Resonance in Medicine: An Official Journal of the International Society for Magnetic Resonance in Medicine 42.5 (1999): 952-962.
+- [2] Lingala, S. G. et al. Feasibility of through-time spiral generalized autocalibrating partial parallel acquisition for low latency accelerated real-time MRI of speech. Magn. Reson. Med. 78 (6), (2017): 2275- 2282.
+  
+## Contact: 
+  The code is meant for reproducible research. In case of any difficulty, please open an issue or directly email me at mohammadwahidul-alam@uiowa.edu
