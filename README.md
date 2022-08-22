@@ -18,7 +18,7 @@ W. Alam, S. Reineke, M. R. Viswanath, R. Z. Rusho, D. V. Daele, D. Meyer, J. Liu
 - Gain in CNR for the proposed airway coil along the entire vocal tract.
 
   <p float="left">
-    <img src="/images/Fig_6_intsty_normalizd.png" width="400" title="CNR comparison" />
+    <img src="/images/Fig_6_intsty_normalizd.png" width="400" title="CNR comparison" >
     <img src="/images/CNR_table.png" alt="Alt text", width="400", title="CNR table"/> 
   </p>
  
